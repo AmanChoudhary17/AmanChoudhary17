@@ -1,10 +1,18 @@
-- Hi 👋, I’m Aman Choudhary
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python Libraries and DSA.
-- 💞️ I’m looking to collaborate on Open Source Projects.
-- 📫 How to reach me amakumarchoudary301@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an Introvert.
+# Hi 👋, I'm Aman Choudhary  
+### A Passionate Programmer & Competitive Programmer  
+
+![Profile Views](https://komarev.com/ghpvc/?username=AmanChoudhary17&label=Profile%20views&color=0e75b6&style=flat)  
+
+- 👀 I’m interested in **Competitive Programming**  
+- 🌱 I’m currently learning **Python Libraries and DSA**  
+- 💞️ I’m looking to collaborate on **Open Source Projects**  
+- 📫 How to reach me: [amakumarchoudary301@gmail.com](mailto:amakumarchoudary301@gmail.com)  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: **I'm an Introvert**  
+
+---
+
+## 🌐 Connect with me:  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aman-choudhary-b2263928b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,6 +22,7 @@
   <a href="https://www.codechef.com/users/aman_17_04" target="blank"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
   <a href="https://atcoder.jp/users/AmanChoudhary17" target="blank"><img src="https://img.shields.io/badge/AtCoder-%2300CCBB.svg?&style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder" /></a>
 </p>
+
 
 
 
