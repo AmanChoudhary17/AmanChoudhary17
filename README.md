@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning **Python Libraries and DSA**  
 - 💞️ I’m looking to collaborate on **Open Source Projects**  
 - 📫 How to reach me: [amakumarchoudary301@gmail.com](mailto:amakumarchoudary301@gmail.com)  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I'm an Introvert**  
+- 😄 Pronouns: **He/Him**   
 
 ---
 
