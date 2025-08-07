@@ -5,7 +5,7 @@
 - 👀 I’m interested in **Competitive Programming**  
 - 🌱 I’m currently learning **Python Libraries and DSA**  
 - 💞️ I’m looking to collaborate on **Open Source Projects**  
-- 📫 How to reach me: [amakumarchoudary301@gmail.com](mailto:amakumarchoudary301@gmail.com)  
+- 📫 How to reach me: [amankumarchoudhary301@gmail.com](mailto:amankumarchoudhary301@gmail.com)  
 - 😄 Pronouns: **He/Him**   
 
 ---
