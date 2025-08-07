@@ -1,7 +1,6 @@
 # Hi 👋, I'm Aman Choudhary  
 ### Passionate about coding and competitive programming. 
-
-![Profile Views](https://komarev.com/ghpvc/?username=AmanChoudhary17&label=Profile%20views&color=0e75b6&style=flat)  
+ 
 
 - 👀 I’m interested in **Competitive Programming**  
 - 🌱 I’m currently learning **Python Libraries and DSA**  
